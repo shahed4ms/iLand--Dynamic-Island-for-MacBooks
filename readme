@@ -5,43 +5,11 @@
 <h1 align="center">iLand — Dynamic Island for MacBooks</h1>
 
 <p align="center">
-  A native macOS application inspired by the iPhone Dynamic Island, bringing useful system activity, music controls, and quick information to your MacBook screen.
+  A native macOS Dynamic Island experience for MacBooks.
 </p>
 
 <p align="center">
-  <a href="https://syncddlabs.netlify.app">
-    <strong>🌐 Get iLand</strong>
-  </a>
+  <a href="https://syncddlabs.netlify.app">🌐 Get iLand</a>
 </p>
 
 ---
-
-## ✨ Overview
-
-**iLand** creates a floating, interactive island for your MacBook, designed to provide quick access to useful information without interrupting your workflow.
-
-Built with SwiftUI and AppKit, the application combines a minimal dark-glass appearance with smooth animations and contextual activity indicators.
-
-## 🚀 Features
-
-- **🎵 Music Player** — Display music information and access playback controls.
-- **⬇️ Safari Downloads** — Show download activity and progress.
-- **🔋 Battery Status** — Display battery information and highlight low-battery or charging states.
-- **🛍️ App Store Activity** — Detect when the App Store is open.
-- **⚡ Interactive Island** — Expand and collapse the island to reveal additional information.
-- **⚙️ Menu Bar Controls** — Access Settings and quit the application from the menu bar.
-- **🎨 Minimal Interface** — Dark styling, rounded corners, subtle shadows, and animated transitions.
-
-> Feature availability and behavior depend on the current implementation and macOS permissions.
-
-## 🛠️ Tech Stack
-
-- **Language:** Swift
-- **UI Framework:** SwiftUI
-- **Window Management:** AppKit
-- **IDE:** Xcode
-- **Platform:** macOS
-
-## 📥 Installation
-
-Visit **[SYNCDD Labs](https://syncddlabs.netlify.app)** to access iLand and check the website for available download and installation instructions.
